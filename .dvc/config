@@ -1,0 +1,6 @@
+[core]
+    remote = local
+['remote "local"']
+    url = /Users/maksymtkach/dvc-playground
+['remote "remote"']
+    url = https://dagshub.com/maksymtkach/flower-classifier-web.dvc
