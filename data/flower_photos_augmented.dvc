@@ -1,0 +1,6 @@
+outs:
+- md5: bc5fac8cbb7c7cbcdfdfb5ddd7cecb0b.dir
+  size: 394748905
+  nfiles: 22020
+  hash: md5
+  path: flower_photos_augmented
